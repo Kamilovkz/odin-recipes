@@ -1,0 +1,27 @@
+
+h1 {
+    color: rgb(201, 134, 34);
+    text-align: center;
+    padding: 20px;
+    font-size: 70px;
+    font-family: Oswald;
+    
+}
+body {
+    color:black;
+    font-size: 17px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    size: 22px;
+}
+h3 {
+    font-family: Oswald;
+    font-size: 30px;
+}
+ol li {
+    font-weight: bold;
+    font-family: Oswald;
+}
